@@ -1,6 +1,6 @@
 [package]
 name = "gdextension"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2018"
 authors = ["Jack Clayton"]
 description = "Rust bindings for GDExtension"
